@@ -27,5 +27,3 @@ As [[Training Experience Level]] increases, the ratio drops: the body adapts, so
 - [[Hypertrophy]]
 - [[Training Experience Level]]
 - [[Progressive Overload]]
-
-> Stub — to be expanded.

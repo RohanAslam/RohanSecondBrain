@@ -6,6 +6,12 @@ Types: `init` `ingest` `query` `lint` `update` `diary`
 
 ---
 
+## [2026-05-25] autofix | No uningestd raw files found; removed stale stub markers from Progressive Overload and Stimulus to Fatigue Ratio pages
+
+## [2026-05-25] update | Progressive Overload — removed residual stub marker (page has full content)
+
+## [2026-05-25] update | Stimulus to Fatigue Ratio — removed residual stub marker (page has full content)
+
 ## [2026-05-25] autofix | Fixed 3 issues — ingested 1 article (How Many Sets Do You Need), processed 1 diary entry (2026-05-24), updated overview and diary-patterns with real content; created 7 new wiki pages
 
 ## [2026-05-25] lint | Health check — 5 issues found (2 uningestd raw files, 1 missing entity, 4 missing concept pages, 3 stale core pages)
