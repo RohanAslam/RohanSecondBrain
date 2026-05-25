@@ -9,7 +9,7 @@ sources: 1
 
 # Training Experience Level
 
-A classification of a lifter's training history, used to calibrate appropriate [[Training Volume]], intensity, and program complexity. The primary lens through which [[Jeff Nippard]] recommends volume in [[How Many Sets Do You Need]].
+A classification of a lifter's training history, used to calibrate appropriate [[Training Volume]], intensity, and program complexity. The primary lens through which [[Jeff Nippard]] recommends volume in [[How many sets do you need?]].
 
 ---
 

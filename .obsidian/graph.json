@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-path:raw/articles/ -file:overview -file:index -file:log -file:CLAUDE -file:Welcome -file:diary-patterns",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.2390173768214146,
+  "scale": 1.0733229735244,
   "close": true
 }

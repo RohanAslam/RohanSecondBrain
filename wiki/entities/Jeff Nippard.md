@@ -15,7 +15,7 @@ Canadian natural bodybuilder, powerlifter, and fitness educator. Known for evide
 
 ## Appearances in the Wiki
 
-- [[How Many Sets Do You Need]] — author; argues for experience-tiered [[Training Volume]] recommendations
+- [[How many sets do you need?]] — author; argues for experience-tiered [[Training Volume]] recommendations
 
 ---
 

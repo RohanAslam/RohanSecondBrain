@@ -25,7 +25,7 @@ The principle that the training stimulus must increase over time for continued a
 
 ## Relationship to Volume
 
-Increasing [[Training Volume]] (more sets per week) is one valid form of progressive overload, particularly relevant for [[Hypertrophy]]-focused training. [[Jeff Nippard]]'s tiered volume model in [[How Many Sets Do You Need]] implicitly assumes progressive overload as a background requirement.
+Increasing [[Training Volume]] (more sets per week) is one valid form of progressive overload, particularly relevant for [[Hypertrophy]]-focused training. [[Jeff Nippard]]'s tiered volume model in [[How many sets do you need?]] implicitly assumes progressive overload as a background requirement.
 
 ---
 

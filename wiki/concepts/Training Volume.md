@@ -15,7 +15,7 @@ The total amount of work performed in training, typically measured as **sets per
 
 ## Evidence-Based Ranges
 
-Per [[How Many Sets Do You Need]] by [[Jeff Nippard]]:
+Per [[How many sets do you need?]] by [[Jeff Nippard]]:
 
 | Experience Level | Training History | Sets per Muscle / Week |
 |---|---|---|

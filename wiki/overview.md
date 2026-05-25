@@ -20,7 +20,7 @@ The wiki is in its earliest stage — one article ingested, one diary entry proc
 ### What's Here
 
 **Fitness & Training (1 source)**
-The first ingested article is [[How Many Sets Do You Need]] by [[Jeff Nippard]], which provides an evidence-based framework for [[Training Volume]] based on experience level. The core insight: more experience demands more volume, but beginners can build muscle effectively with very little work. The concept cluster around this article — [[Hypertrophy]], [[Progressive Overload]], [[Training Experience Level]], [[Stimulus to Fatigue Ratio]] — forms the first node in the knowledge graph.
+The first ingested article is [[How many sets do you need?]] by [[Jeff Nippard]], which provides an evidence-based framework for [[Training Volume]] based on experience level. The core insight: more experience demands more volume, but beginners can build muscle effectively with very little work. The concept cluster around this article — [[Hypertrophy]], [[Progressive Overload]], [[Training Experience Level]], [[Stimulus to Fatigue Ratio]] — forms the first node in the knowledge graph.
 
 **Personal / Diary (1 entry)**
 The 2026-05-24 diary entry marks the beginning of intentional self-tracking in this vault. Mood: content and present. Open threads include upcoming graduation (June 3rd) and nostalgic feelings about UTM. The author is learning Obsidian, making this vault itself a subject of early entries.

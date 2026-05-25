@@ -11,9 +11,9 @@ Content catalog — updated after every ingest and every filed query. Read this 
 
 ---
 
-## Sources
+## Articles
 
-- [[How Many Sets Do You Need]] — Jeff Nippard's evidence-based guide to training volume by experience level (2024-04-29)
+- [[How many sets do you need?]] — Jeff Nippard's evidence-based guide to training volume by experience level (2024-04-29)
 
 ---
 

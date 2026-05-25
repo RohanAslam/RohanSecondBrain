@@ -15,7 +15,7 @@ The relationship between how much a given exercise or training session drives ad
 
 ## Why It Matters
 
-Beginners have an extremely high stimulus-to-fatigue ratio because every movement pattern and load is novel. This explains why they respond strongly to low [[Training Volume]] — as noted in [[How Many Sets Do You Need]] by [[Jeff Nippard]], 1–5 sets per muscle per week is sufficient for meaningful [[Hypertrophy]] in newcomers.
+Beginners have an extremely high stimulus-to-fatigue ratio because every movement pattern and load is novel. This explains why they respond strongly to low [[Training Volume]] — as noted in [[How many sets do you need?]] by [[Jeff Nippard]], 1–5 sets per muscle per week is sufficient for meaningful [[Hypertrophy]] in newcomers.
 
 As [[Training Experience Level]] increases, the ratio drops: the body adapts, so more work is needed to generate the same growth signal.
 

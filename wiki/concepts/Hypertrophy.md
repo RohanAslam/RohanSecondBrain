@@ -24,7 +24,7 @@ The physiological process of muscle growth through an increase in the size of mu
 
 ## Sources
 
-- [[How Many Sets Do You Need]] — frames volume recommendations entirely around hypertrophy goals
+- [[How many sets do you need?]] — frames volume recommendations entirely around hypertrophy goals
 
 ---
 

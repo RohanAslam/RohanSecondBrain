@@ -22,7 +22,6 @@ wiki/
   index.md      ← content catalog (you maintain this)
   log.md        ← append-only event log (you maintain this)
   overview.md   ← evolving synthesis of the entire wiki
-  sources/      ← one summary page per ingested source
   entities/     ← pages for people, places, organizations
   concepts/     ← pages for ideas, themes, topics
   queries/      ← filed answers to questions the user asked
@@ -81,13 +80,14 @@ There are two ways the user can provide a source. Handle both identically from s
 
 1. **Read** the source (from `raw/` or from what was pasted)
 2. **Discuss** 3–5 key takeaways with the user briefly
-3. **Create** `wiki/sources/<source-name>.md` — a structured summary page
-4. **Update** relevant `wiki/entities/` pages (create stubs if needed)
-5. **Update** relevant `wiki/concepts/` pages (create stubs if needed)
-6. **Flag** any contradictions with existing wiki content
-7. **Update** `wiki/overview.md` if the source shifts the overall synthesis
-8. **Update** `wiki/index.md` — add new source page + any new entity/concept pages
-9. **Append** to `wiki/log.md`: `## [YYYY-MM-DD] ingest | Source Title`
+3. **Update** relevant `wiki/entities/` pages (create stubs if needed) — link back to the raw file using `[[filename]]`
+4. **Update** relevant `wiki/concepts/` pages (create stubs if needed) — link back to the raw file using `[[filename]]`
+5. **Flag** any contradictions with existing wiki content
+6. **Update** `wiki/overview.md` if the source shifts the overall synthesis
+7. **Update** `wiki/index.md` — add the raw file link under Sources + any new entity/concept pages
+8. **Append** to `wiki/log.md`: `## [YYYY-MM-DD] ingest | Source Title`
+
+The raw file itself is the source node in the graph — do not create a separate `wiki/sources/` page. Entity and concept pages link directly to the raw file.
 
 A single source typically touches 5–15 wiki pages.
 
