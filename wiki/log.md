@@ -6,7 +6,15 @@ Types: `init` `ingest` `query` `lint` `update` `diary`
 
 ---
 
+<<<<<<< HEAD
 ## [2026-05-25] update | Removed wiki/sources/ — raw articles now serve as source nodes directly; all links updated
+=======
+## [2026-05-25] autofix | No uningestd raw files found; removed stale stub markers from Progressive Overload and Stimulus to Fatigue Ratio pages
+
+## [2026-05-25] update | Progressive Overload — removed residual stub marker (page has full content)
+
+## [2026-05-25] update | Stimulus to Fatigue Ratio — removed residual stub marker (page has full content)
+>>>>>>> origin/main
 
 ## [2026-05-25] autofix | Fixed 3 issues — ingested 1 article (How Many Sets Do You Need), processed 1 diary entry (2026-05-24), updated overview and diary-patterns with real content; created 7 new wiki pages
 

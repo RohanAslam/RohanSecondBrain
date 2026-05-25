@@ -34,5 +34,3 @@ Increasing [[Training Volume]] (more sets per week) is one valid form of progres
 - [[Training Volume]]
 - [[Hypertrophy]]
 - [[Training Experience Level]]
-
-> Stub — to be expanded.
