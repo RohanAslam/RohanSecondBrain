@@ -7,7 +7,7 @@ kanban-plugin: board
 ## To-Do
 
 - [ ] [[Multiple Claude Agents for Jamat work]]
-- [ ] Testing
+- [ ] [[Testing]]
 
 
 ## In Progress
@@ -30,6 +30,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":false,"new-note-folder":"raw/notes/Tasks/All Tasks"}
 ```
 %%
