@@ -40,6 +40,7 @@ Content catalog — updated after every ingest and every filed query. Read this 
 ### Entries
 
 - [[Diary Entry — 2026-05-24]] — Content and present; pull day, new jersey, graduation on the horizon, learning Obsidian
+- [[Diary Entry — 2026-05-25]] — Anxious; busier workday (Kubera away), Fit for Less instead of Pan Am, bedbug worry, Obsidian automation plans
 
 ---
 
