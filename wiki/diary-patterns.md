@@ -3,7 +3,7 @@ title: Diary Patterns
 type: concept
 tags: [diary, patterns, self]
 created: 2026-05-24
-updated: 2026-05-28
+updated: 2026-06-01
 sources: 2
 ---
 
@@ -22,6 +22,7 @@ sources: 2
 - **Gym / fitness** *(recurring — 2 entries)* — 2026-05-24: pull day at Pan Am Sports Center; 2026-05-25: first chest day at Fit for Less instead of Pan Am, didn't feel as good. The gym venue and quality of session are both emotionally significant.
 - **Obsidian / knowledge systems** *(recurring — 2 entries)* — 2026-05-24: excitement about learning Obsidian; 2026-05-25: planning to keep using it and automate diary entries. Meta-theme for this vault itself.
 - **Sun Life internship** — mentioned in 2026-05-25 as primary work context; Kubera going on vacation made the day noticeably busier.
+- **[[Jamat]] / community** — 2026-05-24: attended a "regional istima" (Jamat assembly); not yet confirmed recurring but worth watching.
 
 ---
 

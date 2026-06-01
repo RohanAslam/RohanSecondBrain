@@ -20,6 +20,7 @@ Content catalog — updated after every ingest and every filed query. Read this 
 ## Entities
 
 - [[Jeff Nippard]] — Canadian natural bodybuilder and evidence-based fitness educator
+- [[Jamat]] — The Ismaili Muslim community/congregation; Rohan is a member
 
 ---
 
@@ -41,6 +42,16 @@ Content catalog — updated after every ingest and every filed query. Read this 
 
 - [[Diary Entry — 2026-05-24]] — Content and present; pull day, new jersey, graduation on the horizon, learning Obsidian
 - [[Diary Entry — 2026-05-25]] — Anxious; busier workday (Kubera away), Fit for Less instead of Pan Am, bedbug worry, Obsidian automation plans
+
+---
+
+## Tasks
+
+*Raw task notes in `raw/notes/Tasks/` — tracked here for completeness.*
+
+- [[Tasks Board]] — Kanban board (Obsidian plugin); lists open, in-progress, and completed tasks
+- [[Multiple Claude Agents for Jamat work]] — Open task: use multiple Claude AI agents for Jamat community work (stub — no content yet)
+- [[Testing]] — Placeholder task (empty stub)
 
 ---
 
