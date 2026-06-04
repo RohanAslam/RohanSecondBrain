@@ -8,6 +8,8 @@ Types: `init` `ingest` `query` `lint` `update` `diary`
 
 ## [2026-06-01] autofix | Accounted for 3 uningestd task notes; created Jamat entity stub (referenced in tasks + diary); updated diary-patterns with Jamat/istima connection; added Tasks section and Jamat to index
 
+## [2026-06-04] autofix | No uningestd raw files found; updated overview.md to include tasks/Jamat context added on 2026-06-01; updated diary-patterns open thread for graduation (June 3rd now passed)
+
 ## [2026-05-28] autofix | Merged 7 detached-HEAD vault-backup commits into main; resolved log.md merge conflict; processed diary entry 2026-05-25 (anxious, gym disruption, bedbug worry); updated diary-patterns with 2 recurring themes (gym, Obsidian), added Kubera to people, added 2 open threads; updated index and overview
 
 ## [2026-05-25] update | Removed wiki/sources/ — raw articles now serve as source nodes directly; all links updated

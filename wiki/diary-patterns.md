@@ -3,7 +3,7 @@ title: Diary Patterns
 type: concept
 tags: [diary, patterns, self]
 created: 2026-05-24
-updated: 2026-06-01
+updated: 2026-06-04
 sources: 2
 ---
 
@@ -51,7 +51,7 @@ sources: 2
 
 *Things mentioned but unresolved — decisions pending, questions being sat with, situations still unfolding.*
 
-- **Graduation (June 3rd)** — mixed excitement and worry; outcome unresolved as of 2026-05-24
+- **Graduation (June 3rd)** — mixed excitement and worry as of 2026-05-24; date has now passed (2026-06-04) but no post-graduation diary entry yet
 - **UTM reminiscing** — mentions looking back on university; tone is nostalgic, not distressed
 - **Bedbug issue** — saw another bedbug in the laundry area (2026-05-25); worried about building-wide infestation. Ongoing concern.
 - **Obsidian automation** — wants to automate diary entries so they can be done from the phone; plan mentioned but not yet acted on as of 2026-05-25
