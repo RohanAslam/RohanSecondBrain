@@ -6,6 +6,8 @@ Types: `init` `ingest` `query` `lint` `update` `diary`
 
 ---
 
+## [2026-06-08] autofix | No uningestd raw files found (all 6 raw files already indexed); no stale placeholder content in overview.md or diary-patterns.md — wiki already clean
+
 ## [2026-06-01] autofix | Accounted for 3 uningestd task notes; created Jamat entity stub (referenced in tasks + diary); updated diary-patterns with Jamat/istima connection; added Tasks section and Jamat to index
 
 ## [2026-06-04] autofix | No uningestd raw files found; updated overview.md to include tasks/Jamat context added on 2026-06-01; updated diary-patterns open thread for graduation (June 3rd now passed)
