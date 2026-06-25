@@ -4,6 +4,8 @@ Append-only record of all wiki activity.
 Format: `## [YYYY-MM-DD] type | description`
 Types: `init` `ingest` `query` `lint` `update` `diary`
 
+## [2026-06-25] autofix | Wiki already clean — 1 article and 2 diary entries all indexed, no stub markers, no stale placeholder text in overview.md or diary-patterns.md. No action needed.
+
 ---
 
 ## [2026-06-22] autofix | No uningestd raw files found (1 article, 2 diary entries — all already indexed); no stale placeholder content in overview.md or diary-patterns.md — wiki already clean
