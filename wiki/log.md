@@ -4,6 +4,8 @@ Append-only record of all wiki activity.
 Format: `## [YYYY-MM-DD] type | description`
 Types: `init` `ingest` `query` `lint` `update` `diary`
 
+## [2026-08-10] autofix | No uningestd raw files found (all 6 raw files already indexed); no stale placeholder content in overview.md or diary-patterns.md; git on main and up to date with origin — wiki already clean
+
 ## [2026-08-06] autofix | No uningestd raw files found (all 6 raw files already indexed); no stale placeholder content in overview.md or diary-patterns.md; fixed detached HEAD (local main was 1 commit behind origin) — wiki already clean
 
 ## [2026-08-03] autofix | No uningestd raw files found (all 6 raw files already indexed); no stale placeholder content in overview.md or diary-patterns.md; git on main and up to date with origin — wiki already clean
