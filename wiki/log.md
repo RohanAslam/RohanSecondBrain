@@ -114,3 +114,5 @@ Wiki directory structure created. Schema defined in `CLAUDE.md`. Obsidian vault 
 ## [2026-10-08] autofix | No uningestd raw files found (all 6 raw files already indexed); no stale placeholder content in overview.md or diary-patterns.md; git on main and up to date with origin/main — wiki already clean
 
 ## [2026-10-12] autofix | No uningestd raw files found (all 6 raw files already indexed); no stale placeholder content in overview.md or diary-patterns.md; recovered detached-HEAD commit (2026-10-08) onto main — wiki already clean
+
+## [2026-10-15] autofix | No uningestd raw files found (all 6 raw files already indexed); no stale placeholder content in overview.md or diary-patterns.md; recovered 2 detached-HEAD commits (2026-10-08, 2026-10-12) onto main — wiki already clean
